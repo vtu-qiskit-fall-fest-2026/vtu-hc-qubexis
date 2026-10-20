@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Qubexis** · Team ID `VTU-QFF-HC-0132` · Tier `Offline`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Qubexis)
+[⬆ Back to Top](#qubexis)
 
 </div>
