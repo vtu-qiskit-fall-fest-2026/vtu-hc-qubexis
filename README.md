@@ -205,8 +205,8 @@ pytest -q
 ### Configure Git (first time only)
 
 ```bash
-git config --global user.name  "Your Name"
-git config --global user.email "you@example.com"
+git config --global user.name  "Sahanjc22"
+git config --global user.email "jcsahana8@gmail.com"
 ```
 
 ### Everyday workflow
