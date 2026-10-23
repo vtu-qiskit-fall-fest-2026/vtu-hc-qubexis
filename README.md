@@ -103,14 +103,10 @@ flowchart LR
     D --> E[Output]
 ```
 
-1. **Input** — _Industrial sensor readings and machine operating parameters are used as input to identify patterns associated with potential equipment failures.
-_
-2. **Preprocessing** — _The data is cleaned, normalized, and transformed into numerical features suitable for processing by the quantum machine learning model.
-_
-3. **Quantum core** — _A Variational Quantum Classifier (VQC) encodes the input features into a parameterized quantum circuit and performs classification using measured quantum outputs.
-_
-4. **Post-processing** — _The quantum measurement results are converted into classification scores and evaluated under different simulated quantum noise conditions.
-_
+1. **Input** — _Industrial sensor readings and machine operating parameters are used as input to identify patterns associated with potential equipment failures._
+2. **Preprocessing** — _The data is cleaned, normalized, and transformed into numerical features suitable for processing by the quantum machine learning model._
+3. **Quantum core** — _A Variational Quantum Classifier (VQC) encodes the input features into a parameterized quantum circuit and performs classification using measured quantum outputs._
+4. **Post-processing** — _The quantum measurement results are converted into classification scores and evaluated under different simulated quantum noise conditions._
 5. **Output** — _The system produces machine failure classifications and performance metrics, helping assess the potential of quantum machine learning for predictive maintenance._
 
 ---
