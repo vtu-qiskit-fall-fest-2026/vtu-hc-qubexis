@@ -66,11 +66,11 @@ who experiences it, and why does it matter. Link to the official problem
 statement from the brief if one applies.
 -->
 
-**Problem:** _Describe the problem in 2–3 sentences._
+**Problem:** _Industrial machinery can experience unexpected failures due to changing operating conditions, equipment wear, and complex sensor interactions, resulting in costly downtime and production losses. Traditional machine learning approaches can help predict failures, but identifying complex nonlinear relationships in industrial data remains challenging._
 
-**Why it matters:** _Explain the impact or opportunity._
+**Why it matters:** _QuantumPredict explores Quantum Machine Learning for industrial failure prediction, aiming to support timely maintenance decisions, reduce unexpected downtime, and investigate the potential of quantum computing in intelligent manufacturing.._
 
-**Track / Category:** _Online / Offline · Track 1 / Track 2 · <domain>_
+**Track / Category:** _Offline · Track 4 · Quantum + AI&ML_
 
 ---
 
