@@ -117,8 +117,8 @@ flowchart LR
 | :--- | :--- |
 | Language | Python 3.11+ |
 | Quantum SDK | Qiskit `>=1.0`, Qiskit Aer, Qiskit Runtime |
-| Optimisation | Qiskit Optimization / COBYLA / SPSA |
-| Simulation | AerSimulator (statevector / noisemodel) |
+| Optimisation |COBYLA / SPSA |
+| Simulation | Qiskit Aer noise models |
 | Environment | JupyterLab / VS Code, `venv` |
 | Version control | Git + GitHub |
 
