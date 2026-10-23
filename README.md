@@ -81,11 +81,11 @@ Describe your solution. Keep it concrete: the core idea, the user flow, and
 the quantum/ML technique you are applying.
 -->
 
-**Solution:** _In 2–3 sentences, describe what you built._
+**Solution:** _QuantumPredict uses a Quantum Machine Learning model to analyze industrial sensor data and predict potential machinery failures. It evaluates classification performance under different simulated quantum noise conditions to explore the reliability of quantum-based predictive maintenance._
 
-**Key idea:** _The one-line technical summary of your approach._
+**Key idea:** _Use a Variational Quantum Classifier (VQC) with feature encoding and simulated quantum noise to classify industrial machine failures._
 
-**Why this works:** _How your approach addresses the problem statement._
+**Why this works:** _Analyzing sensor patterns can help identify potential failures earlier, while comparing noisy and noiseless simulations helps us understand how quantum noise affects prediction performance._
 
 ---
 
